@@ -1,0 +1,27 @@
+html, body {
+  position: relative;
+  height: 100%;
+}
+body {
+background-image: url("../img/backgrung/backgrund3.jpg");
+
+background-size: cover;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color:rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+}
+.swiper-container {
+  width: 600px;
+  height: 470px;
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -210px;
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}

@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/backgrung/img-backgrund.jpg");
+    background-size: cover;
+}
+
+.contact-form{
+   background-color: rgb(44, 44, 44);
+   opacity: 0.9;
+   color: antiquewhite;
+   margin-top: 100px;
+   padding: 20px;
+   box-shadow: 0px 0px 10px 20px grey;
+}
