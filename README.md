@@ -9,4 +9,4 @@
 
 ## Descrição
 
-Caracteristicas de desenvolminto simples, formulário contato, página index (home), galeria, sobre, contato.
+Ultilizando caracteristicas de desenvolvimento simples, formulário contato, página index (home), galeria, sobre, contato.
